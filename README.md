@@ -1,4 +1,4 @@
-# <p align="center"> :pizza: Does Fast Food Makes The United States Fatter? :hamburger: </p>
+ <p align="center"># :pizza: Does Fast Food Makes The United States Fatter? :hamburger: </p>
 
 Proposal 
 Does the amount of fast food chains per state correlate with the increased rates of obesity?
@@ -21,6 +21,7 @@ Next we will transform the data to show their relational similarities and to pro
 Finally we will load the transformed data into pgadmin and join the tables.
 
 Data Sets:
+
 https://www.nicerx.com/fast-food-capitals/
 
 https://www.kaggle.com/datasets/ssskay/usadultsobesityratebystate
