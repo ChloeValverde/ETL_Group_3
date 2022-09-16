@@ -1,21 +1,27 @@
 # <p align="center"> :pizza: Does Fast Food Makes The United States Fatter? :hamburger: </p>
 
-Proposal 
+Proposal: 
+
 Does the amount of fast food chains per state correlate with the increased rates of obesity?
 
-Null hypothesis
+Null hypothesis:
+
 Fast food chains do not relate to obesity per state.
 
-Target Audience 
+Target Audience: 
+
 Fast Food Corporations,  Healthcare Providers. 
 
-Team Members
+Team Members:
+
 Jeanne Dakoury, Jasmine Leal, Loraine Gomez, Chloe Valverde
 
-What/Why   
+What/Why:  
+
 We decided to use these datasets to  prove the correlation of the increase in obesity to the amount of fast food chains in each state. The first dataset provides locations, types of fast food chains, and how many fast food restaurants per state. And the second dataset provides the percentage of obese adults per state. We hope to check the databases to see if the data has relational similarities to prove the proposal. 
 
-Basic Process
+Basic Process:
+
  We will extract the datasets from the provided links and process them into readable charts/tables through jupyter notebook.
 Next we will transform the data to show their relational similarities and to process them into easy to read graphs through jupyter notebook.
 Finally we will load the transformed data into pgadmin and join the tables.
