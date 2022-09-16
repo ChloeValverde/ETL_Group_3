@@ -10,7 +10,7 @@ Team Members: Jeanne Dakoury, Jasmine Leal, Loraine Gomez, Chloe Valverde
 
 What/Why: We decided to use these datasets to  prove the correlation of the increase in obesity to the amount of fast food chains in each state. The first dataset provides locations, types of fast food chains, and how many fast food restaurants per state. And the second dataset provides the percentage of obese adults per state. We hope to check the databases to see if the data has relational similarities to prove the proposal. 
 
-Basic Process:We will <ins>extract</ins> the datasets from the provided links and process them into readable charts/tables through jupyter notebook.
+Basic Process: We will <ins>extract</ins> the datasets from the provided links and process them into readable charts/tables through jupyter notebook.
 Next we will <ins>transform</ins> the data to show their relational similarities and to process them into easy to read graphs through jupyter notebook.
 Finally we will <ins>load</ins> the transformed data into pgadmin and join the tables.
 
@@ -32,5 +32,9 @@ Our second datasource came from a csv file from a website called “Kaggle”. �
    Once the data was cleaned, we loaded the cleaned data to a connected “pgadmin” database. In order for the table to properly work, we had to go back into the Jupyter Notebook and change the “United States” column header into the “State” column header for a comparison.  We then merged the tables together and compared the states with the highest amount of fast food restaurants and the highest amount of obesity.
    
    The schema was created in pgadmin and sent over to Jupyter Notebook to be cleaned up and finalized. In order to be cleaned, sql was used to call and query the following dataset tables. We could not load the final schema into the Jupyter Notebook due to time constraints but the data looked to correlate with the hypothesis and prove our point that an increase in fast food chains increases the states obesity level.
+   
+   
+   
+<p align="center"> ![](https://i.imgur.com/vxH6e3R.gif) </p>
     
     
