@@ -35,6 +35,6 @@ Our second datasource came from a csv file from a website called “Kaggle”. �
    
    
    
-<p align="center"> ![](https://i.imgur.com/vxH6e3R.gif) </p>
+![](https://i.imgur.com/vxH6e3R.gif)
     
     
