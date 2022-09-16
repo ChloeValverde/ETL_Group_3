@@ -34,7 +34,8 @@ Our second datasource came from a csv file from a website called “Kaggle”. �
    The schema was created in pgadmin and sent over to Jupyter Notebook to be cleaned up and finalized. In order to be cleaned, sql was used to call and query the following dataset tables. We could not load the final schema into the Jupyter Notebook due to time constraints but the data looked to correlate with the hypothesis and prove our point that an increase in fast food chains increases the states obesity level.
    
    
-   
-![](https://i.imgur.com/vxH6e3R.gif)
+<p align="center">  
+![](https://i.imgur.com/vxH6e3R.gif) 
+</p>
     
     
