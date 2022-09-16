@@ -36,7 +36,7 @@ Our second datasource came from a csv file from a website called “Kaggle”. �
    
    
 <p align="center">
-  <imc src="donut.gif" alt="animated" width="200"> 
+  <imc src="Downloads/donut.gif" alt="animated" width="200"> 
 </p>
     
     
