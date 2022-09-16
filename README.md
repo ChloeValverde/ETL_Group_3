@@ -1,4 +1,4 @@
- <p align="center"># :pizza: Does Fast Food Makes The United States Fatter? :hamburger: </p>
+# <p align="center"> :pizza: Does Fast Food Makes The United States Fatter? :hamburger: </p>
 
 Proposal 
 Does the amount of fast food chains per state correlate with the increased rates of obesity?
