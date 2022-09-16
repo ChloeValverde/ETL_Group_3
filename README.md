@@ -1,18 +1,16 @@
-# ETL_Group_3
-
 Title: How the increase in obesity correlates to the amount of fast food chains in each state across the U.S.
 
 Proposal 
 Does the amount of fast food chains per state correlate with the increased rates of obesity?
 
 Null hypothesis
- Fast food chains do not relate to obesity per state.
+Fast food chains do not relate to obesity per state.
 
 Target Audience 
 Fast Food Corporations,  Healthcare Providers. 
 
 Team Members
- Jeanne Dakoury, Jasmine Leal, Loraine Gomez, Chloe Valverde
+Jeanne Dakoury, Jasmine Leal, Loraine Gomez, Chloe Valverde
 
 What/Why   
 We decided to use these datasets to  prove the correlation of the increase in obesity to the amount of fast food chains in each state. The first dataset provides locations, types of fast food chains, and how many fast food restaurants per state. And the second dataset provides the percentage of obese adults per state. We hope to check the databases to see if the data has relational similarities to prove the proposal. 
@@ -27,10 +25,10 @@ https://www.nicerx.com/fast-food-capitals/
 https://www.kaggle.com/datasets/ssskay/usadultsobesityratebystate
 
 
-                                                                    Final Report
+  
+  Final Report 9/15/2022
 
-
-    At the beginning of this project, we had to find two data sources that showed the relationship between the number of fast food locations and if there was an increase in obesity levels.
+   At the beginning of this project, we had to find two data sources that showed the relationship between the number of fast food locations and if there was an increase in obesity levels.
 Our first data source was from a website called “nicerx” that had a table that contained 
 the amount of major fast food locations, such as McDonalds and Krispy Kreme. In order to acquire this data, we had to web scrape the data with beautiful soup, placing the new found data into cleaned up datatables within the Jupyter Notebook. 
     Our second datasource came from a csv file from a website called “Kaggle”. “Kaggle” is a website that contains various datasets ranging from scientific to personal hobbies. In the  csv dataset we downloaded, we had to change the file from a XLSX into a readable csv file in order for the Jupyter Notebook to read and alter it.
