@@ -35,8 +35,8 @@ Our second datasource came from a csv file from a website called “Kaggle”. �
    
    
    
-<p>
-  <img align="center" alt="gif" src="[donut.gif](https://imgur.com/gallery/3oAJX5v.gif)"  width="200"/> 
-</p>
+<a href="https://imgur.com/gallery/3oAJX5v" target="_blank">
+  <img src="https://imgur.com/gallery/3oAJX5v" alt="Doughnut" style="width: 200px; height: 44px;" width="200" height="44" align="center"/>
+</a>
     
     
